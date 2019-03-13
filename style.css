@@ -1,0 +1,22 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  font-size: 40px;
+  
+}
+
+div #Bild {
+  color: blue;
+}
+
+.projekt1 {
+  background-color: green;
+}
+
+#Bild {
+  width: 50%;
+}
+
+p {
+  font-weight: bold;
+}
